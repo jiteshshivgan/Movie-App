@@ -10,7 +10,6 @@ A Movies listing app including search and favourite/unfavourite functionality
 
 
 
-https://user-images.githubusercontent.com/65730103/154234465-b12b353c-f4bf-4abe-b17e-15468058a16f.mp4
 
 
 
